@@ -1,9 +1,12 @@
 # ECDSA-Authentication
 基于ECDSA的简单双向认证
+
 ECDSA：椭圆曲线采用384位NIST素域椭圆曲线，HASH算法采用SHA1杂凑算法
 
 setup.py：创建密钥对，将地址、端口及密钥等信息保存在各自的json文件中
+
 AP:AP端运行程序
+
 MN：MN端运行程序
 
 AP端：
