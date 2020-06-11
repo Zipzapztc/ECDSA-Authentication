@@ -10,6 +10,10 @@ AP.py：AP端运行程序
 
 MN.py：MN端运行程序
 
+document_AP.py：存放在AP端的数据，包括AP地址、AP端口号、AP的密钥对以及所有已知MN的ID和公钥
+
+document_MN.py：存放在MN端的数据，包括AP地址、AP端口号、AP的公钥和MN的密钥对
+
 ## 认证过程
 
 ### AP端：
